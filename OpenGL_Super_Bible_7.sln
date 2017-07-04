@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "glfw", "glfw\glfw.vcxproj", "{CEE5E456-738B-4267-845E-B9E357F4363E}"
 EndProject
@@ -99,6 +99,16 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "glfw_windows_test", "tests\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "glfw_vulkan_test", "tests\glfw_vulkan_test\glfw_vulkan_test.vcxproj", "{13EDC260-8483-40DF-AFC5-E743ED0781FB}"
 	ProjectSection(ProjectDependencies) = postProject
+		{CEE5E456-738B-4267-845E-B9E357F4363E} = {CEE5E456-738B-4267-845E-B9E357F4363E}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "examples", "examples", "{490D70EC-E5A9-40B9-B859-2B3705DAB2AA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sb7common", "sb7common\sb7common.vcxproj", "{5353BB2B-0CCE-4FAE-A6C8-362F10BB947E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "alienrain", "examples\alienrain\alienrain.vcxproj", "{A78CE7FA-AEEE-4D56-8430-5B602AB29A4C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5353BB2B-0CCE-4FAE-A6C8-362F10BB947E} = {5353BB2B-0CCE-4FAE-A6C8-362F10BB947E}
 		{CEE5E456-738B-4267-845E-B9E357F4363E} = {CEE5E456-738B-4267-845E-B9E357F4363E}
 	EndProjectSection
 EndProject
@@ -270,6 +280,22 @@ Global
 		{13EDC260-8483-40DF-AFC5-E743ED0781FB}.Release|x64.Build.0 = Release|x64
 		{13EDC260-8483-40DF-AFC5-E743ED0781FB}.Release|x86.ActiveCfg = Release|Win32
 		{13EDC260-8483-40DF-AFC5-E743ED0781FB}.Release|x86.Build.0 = Release|Win32
+		{5353BB2B-0CCE-4FAE-A6C8-362F10BB947E}.Debug|x64.ActiveCfg = Debug|x64
+		{5353BB2B-0CCE-4FAE-A6C8-362F10BB947E}.Debug|x64.Build.0 = Debug|x64
+		{5353BB2B-0CCE-4FAE-A6C8-362F10BB947E}.Debug|x86.ActiveCfg = Debug|Win32
+		{5353BB2B-0CCE-4FAE-A6C8-362F10BB947E}.Debug|x86.Build.0 = Debug|Win32
+		{5353BB2B-0CCE-4FAE-A6C8-362F10BB947E}.Release|x64.ActiveCfg = Release|x64
+		{5353BB2B-0CCE-4FAE-A6C8-362F10BB947E}.Release|x64.Build.0 = Release|x64
+		{5353BB2B-0CCE-4FAE-A6C8-362F10BB947E}.Release|x86.ActiveCfg = Release|Win32
+		{5353BB2B-0CCE-4FAE-A6C8-362F10BB947E}.Release|x86.Build.0 = Release|Win32
+		{A78CE7FA-AEEE-4D56-8430-5B602AB29A4C}.Debug|x64.ActiveCfg = Debug|x64
+		{A78CE7FA-AEEE-4D56-8430-5B602AB29A4C}.Debug|x64.Build.0 = Debug|x64
+		{A78CE7FA-AEEE-4D56-8430-5B602AB29A4C}.Debug|x86.ActiveCfg = Debug|Win32
+		{A78CE7FA-AEEE-4D56-8430-5B602AB29A4C}.Debug|x86.Build.0 = Debug|Win32
+		{A78CE7FA-AEEE-4D56-8430-5B602AB29A4C}.Release|x64.ActiveCfg = Release|x64
+		{A78CE7FA-AEEE-4D56-8430-5B602AB29A4C}.Release|x64.Build.0 = Release|x64
+		{A78CE7FA-AEEE-4D56-8430-5B602AB29A4C}.Release|x86.ActiveCfg = Release|Win32
+		{A78CE7FA-AEEE-4D56-8430-5B602AB29A4C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -294,5 +320,6 @@ Global
 		{ACD8F180-A6C8-432F-80F6-7122C00120FE} = {73DCF450-3C71-4669-A635-74E32BBE7584}
 		{457249D8-4533-460D-8A5E-42B553C297C0} = {73DCF450-3C71-4669-A635-74E32BBE7584}
 		{13EDC260-8483-40DF-AFC5-E743ED0781FB} = {73DCF450-3C71-4669-A635-74E32BBE7584}
+		{A78CE7FA-AEEE-4D56-8430-5B602AB29A4C} = {490D70EC-E5A9-40B9-B859-2B3705DAB2AA}
 	EndGlobalSection
 EndGlobal
