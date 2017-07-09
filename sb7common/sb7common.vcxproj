@@ -131,9 +131,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="..\sb7code\include\GL\gl3w.h" />
     <ClInclude Include="..\sb7code\include\GL\glcorearb.h" />
     <ClInclude Include="..\sb7code\include\GL\glext.h" />

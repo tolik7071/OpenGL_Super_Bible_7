@@ -5,8 +5,7 @@
   <PropertyGroup />
   <ItemDefinitionGroup>
     <PostBuildEvent>
-      <Command>IF EXIST $(OutDir)media RMDIR /S /Q $(OutDir)media
-xcopy.exe $(SolutionDir)sb7media\*.* $(OutDir)media\ /E /H /I</Command>
+      <Command>IF NOT EXIST $(OutDir)media XCOPY $(SolutionDir)sb7media\*.* $(OutDir)media\ /E /H /I</Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup />

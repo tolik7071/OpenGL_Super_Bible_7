@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="..\sb7code\include\GL\gl3w.h">
       <Filter>Header Files</Filter>
     </ClInclude>
