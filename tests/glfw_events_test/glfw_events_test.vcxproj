@@ -22,7 +22,7 @@
     <ProjectGuid>{15506E5E-D447-4B2C-950D-8CC69DBB37ED}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>glfw_events_test</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -23,7 +23,7 @@
     <ProjectGuid>{DB868F65-6C1C-4304-B240-B888AB3B9BCB}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>cubemapenv</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

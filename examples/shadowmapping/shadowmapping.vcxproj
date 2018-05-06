@@ -23,7 +23,7 @@
     <ProjectGuid>{02697CF2-6033-4C79-A365-22F080DDBCE2}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>shadowmapping</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

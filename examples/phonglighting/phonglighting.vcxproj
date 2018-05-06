@@ -23,7 +23,7 @@
     <ProjectGuid>{84288161-5BCE-4BB9-9543-85F68B62F2BB}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>phonglighting</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

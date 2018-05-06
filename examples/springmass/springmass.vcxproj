@@ -23,7 +23,7 @@
     <ProjectGuid>{960B1394-F7ED-40C1-B7D4-BD695A05955F}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>springmass</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -22,7 +22,7 @@
     <ProjectGuid>{020C5C56-1A26-40E9-AD00-F9879333685F}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>glfw_threads_test</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -23,7 +23,7 @@
     <ProjectGuid>{921FD429-041A-408B-8342-A90D40EBCC7B}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>ompparticles</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

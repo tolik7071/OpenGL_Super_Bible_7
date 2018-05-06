@@ -23,7 +23,7 @@
     <ProjectGuid>{CA264C86-A315-4868-AE90-87E5760E5F3F}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>depthclamp</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

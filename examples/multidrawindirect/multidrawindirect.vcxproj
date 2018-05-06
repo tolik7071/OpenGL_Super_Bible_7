@@ -23,7 +23,7 @@
     <ProjectGuid>{978B3F3C-2D0D-40D6-9739-F5D3791E53A2}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>multidrawindirect</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

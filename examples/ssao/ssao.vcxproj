@@ -23,7 +23,7 @@
     <ProjectGuid>{2E29A27E-7E77-4F78-BF76-C2C54F86DC06}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>ssao</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

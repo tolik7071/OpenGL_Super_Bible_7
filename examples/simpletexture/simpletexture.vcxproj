@@ -23,7 +23,7 @@
     <ProjectGuid>{058C6F0A-A661-4A85-A440-553C0DF49B0A}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>simpletexture</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

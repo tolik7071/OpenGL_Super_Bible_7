@@ -22,7 +22,7 @@
     <ProjectGuid>{4FD186AB-ACB3-49F9-9AB8-B999A28BA11F}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>glfw_joysticks</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
     <ProjectName>glfw_joysticks_test</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

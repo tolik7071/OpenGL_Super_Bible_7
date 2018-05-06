@@ -23,7 +23,7 @@
     <ProjectGuid>{D3C72C08-5EEC-47D0-9BE5-6624E839333E}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>tessmodes</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -23,7 +23,7 @@
     <ProjectGuid>{01103756-5DBC-4B84-B88C-94CA24BF5309}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>bindlesstex</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

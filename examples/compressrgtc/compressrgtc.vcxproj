@@ -23,7 +23,7 @@
     <ProjectGuid>{8E67EDC3-8707-46DD-8E8C-48FE17E0039C}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>compressrgtc</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

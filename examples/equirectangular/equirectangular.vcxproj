@@ -23,7 +23,7 @@
     <ProjectGuid>{680D5E56-B4A8-4DC9-AD4D-3D75EC8C0F9E}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>equirectangular</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -23,7 +23,7 @@
     <ProjectGuid>{052D135A-2AEE-4A8A-831E-6CAAB9CA20D5}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>indexedcube</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

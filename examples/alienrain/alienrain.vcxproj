@@ -23,7 +23,7 @@
     <ProjectGuid>{A78CE7FA-AEEE-4D56-8430-5B602AB29A4C}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>alienrain</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

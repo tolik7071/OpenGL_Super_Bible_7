@@ -23,7 +23,7 @@
     <ProjectGuid>{C16D2245-DCF5-4FC3-96B6-D7076E4D7C31}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>gstessellate</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -22,7 +22,7 @@
     <ProjectGuid>{B4F9FE19-8497-4F9A-819C-933801C6E7A3}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>glfw_sharing_test</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

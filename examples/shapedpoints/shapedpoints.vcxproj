@@ -23,7 +23,7 @@
     <ProjectGuid>{30AFAC80-3EB4-4F5E-B371-D79672712B3C}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>shapedpoints</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

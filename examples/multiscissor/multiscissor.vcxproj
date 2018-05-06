@@ -23,7 +23,7 @@
     <ProjectGuid>{3A022BA5-CFB6-4075-8DD4-43AC6026D7BA}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>multiscissor</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

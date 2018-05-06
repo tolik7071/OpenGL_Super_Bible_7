@@ -23,7 +23,7 @@
     <ProjectGuid>{15E2DFF9-D1E2-47FB-9FCA-A012DB18E36B}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>spinnycube</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

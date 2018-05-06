@@ -23,7 +23,7 @@
     <ProjectGuid>{0028AEA5-2C23-4767-AFF6-AB56ABFCCE2A}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>mirrorclampedge</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

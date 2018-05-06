@@ -23,7 +23,7 @@
     <ProjectGuid>{CEE2F566-E3AC-4A06-8CA0-8973304922D0}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>fragcolorfrompos</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
