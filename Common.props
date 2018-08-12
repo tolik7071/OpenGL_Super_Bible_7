@@ -6,6 +6,7 @@
   <ItemDefinitionGroup>
     <ClCompile>
       <AdditionalIncludeDirectories>$(SolutionDir)\external\glfw\deps\;$(SolutionDir)\external\glfw\include\;$(SolutionDir)\sb7code\include\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_WIN32;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
     <Link>
       <AdditionalDependencies>glfw.lib;opengl32.lib;glu32.lib;%(AdditionalDependencies)</AdditionalDependencies>
